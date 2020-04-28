@@ -1,4 +1,4 @@
-# VIBLITE
+# A Vision-Based Line-Tracking (VIBLITE) Technique
 
 ## Introduction
 
