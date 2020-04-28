@@ -3,9 +3,7 @@ A vision-based line-tracking (VIBLITE) technique has been proposed for uplift 
 
 The file contains MATLAB code with example images for processing.
 
-The Line-tracking technique is designed for detecting and tracking a linear object, e.g., a railway catenary wire. 
-The technique is based on a coarse subset and line search and subpixel centerline detection. 
-Vertical displacement response of the linear object can also be obtained. 
+The Line-tracking technique is designed for detecting and tracking a linear object, e.g., a railway catenary wire. The technique is based on a coarse subset and line search and subpixel centerline detection. Vertical displacement response of the linear object can also be obtained. 
 
 If you want to cite our work, please cite the code and the below article.
 
