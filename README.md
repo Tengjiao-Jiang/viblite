@@ -1,4 +1,4 @@
-# A Vision-Based Line-Tracking (VIBLITE) Technique (Matlab version with tutorial)
+# A Vision-Based Line-Tracking Technique (Matlab version with tutorial)
 
 ## Introduction
 
