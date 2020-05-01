@@ -2,16 +2,13 @@
 
 ## Introduction
 
-A vision-based line-tracking (VIBLITE) technique has been proposed for uplift measurements of railway catenary systems in front of noisy backgrounds. 
+The line-tracking technique is an image-processing technique and is designed for detecting and tracking a linear object, e.g., a railway catenary wire, from noisy backgrounds. The technique is based on a coarse subset and line search and a subpixel centerline detection. The principles are described in detail in the following article [1]. Displacement response of the linear object can be obtained.
 
-The file contains MATLAB code with example images for processing.
-
-The Line-tracking technique is designed for detecting and tracking a linear object, e.g., a railway catenary wire. The technique is based on a coarse subset and line search and subpixel centerline detection. Vertical displacement response of the linear object can also be obtained. 
-
+The files contain MATLAB code with a tutorial and example images for processing.
 
 ## Citation
 
-Please cite both the below article and the code if used in research. The principles are described in detail in the article:
+#### Please cite the following article and code if used in research.
 
 [1] Tengjiao Jiang, Gunnstein Thomas Frøseth, Anders Rønnquist, Egil Fagerholt. A Robust Line-Tracking Photogrammetry Method for Uplift Measurements of  Railway Catenary Systems in Noisy Backgrounds, Mechanical Systems and Signal Processing. 144 (2020) 106888.https://doi.org/10.1016/j.ymssp.2020.106888.
 
